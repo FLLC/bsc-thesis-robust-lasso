@@ -48,7 +48,7 @@ All are assessed for **RMSPE**, **F1**, **TPR/FPR**, **robust bias**, and **MAD*
 .
 ├── README.md
 ├── thesis/
-│   └── Bachelor EOR Thesis, Ferran Llorca Mataix (S4847113).pdf
+│   └── Bachelor EOR Thesis.pdf
 ├── code/                  # (coming) cleaned R code
 │   ├── 00_env/            # renv lockfile / session info
 │   ├── 01_sim/            # data-generating process & contamination

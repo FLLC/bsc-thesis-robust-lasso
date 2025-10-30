@@ -9,8 +9,7 @@
 ---
 
 ## 📄 Thesis PDF
-
-- `Bachelor EOR Thesis, Ferran Llorca Mataix (S4847113).pdf`
+[Thesis PDF](https://github.com/FLLC/bsc-thesis-robust-lasso/blob/main/thesis/Bachelor%C2%B4s%20Thesis.pdf)
 
 The thesis evaluates **Lasso-type** and **robust** methods for sparse, high-dimensional regression under **rowwise (casewise)** and **cellwise** contamination, using extensive **Monte Carlo** experiments. :contentReference[oaicite:0]{index=0}
 

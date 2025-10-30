@@ -30,17 +30,6 @@ The thesis evaluates **Lasso-type** and **robust** methods for sparse, high-dime
 
 Outliers distort variable selection and prediction, and in modern datasets they often appear **per cell** rather than by whole rows. This study benchmarks methods that either **model robustness directly** (e.g., SLTS, LAD-Lasso, GR-ALasso) or **pre-clean the design matrix** (DDC) before fitting Lasso, comparing **out-of-sample error** and **feature-selection quality** across contamination types and levels. :contentReference[oaicite:1]{index=1}
 
----
-
-## 🧠 Key Findings (TL;DR)
-
-- **DDC ➜ Lasso** delivers the **most consistent trade-off** between prediction accuracy and variable-selection stability **across contamination types**. :contentReference[oaicite:2]{index=2}  
-- **GR-ALasso** achieves the **best F1 (variable selection)** when contamination is **low (<≈10%)**; its advantage narrows as contamination grows. :contentReference[oaicite:3]{index=3}  
-- Under **rowwise** contamination, **SLTS** and **LAD-Lasso** maintain low prediction error even when Lasso breaks, but they lag on F1. :contentReference[oaicite:4]{index=4}  
-- **Standard Lasso** is strongest on clean data but degrades quickly with outliers, especially cellwise. :contentReference[oaicite:5]{index=5}
-
----
-
 ## 🧪 Methods Compared
 
 - **Lasso** (baseline)  

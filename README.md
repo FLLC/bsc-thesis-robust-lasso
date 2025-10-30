@@ -60,3 +60,8 @@ All are assessed for **RMSPE**, **F1**, **TPR/FPR**, **robust bias**, and **MAD*
 
 ---
 
+
+## 🏛️ Citation & License
+
+© 2025 **Ferran Llorca** — *University of Groningen*  
+Bachelor's Thesis, BSc Econometrics and Operations Research 
